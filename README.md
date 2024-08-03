@@ -1,4 +1,6 @@
-# Generative-AI-for-Speech-to-Text-and-Summarization-of-Women-s-Right-to-Vote-Speech: This project leverages generative AI technologies to convert speech from a WAV audio file into text and subsequently summarize the content. The project specifically focuses on a speech about women's right to vote, aiming to create a concise and accurate summary of the original speech.
+# Generative-AI-for-Speech-to-Text-and-Summarization-of-Women-s-Right-to-Vote-Speech
+
+This project leverages generative AI technologies to convert speech from a WAV audio file into text and subsequently summarize the content. The project specifically focuses on a speech about women's right to vote, aiming to create a concise and accurate summary of the original speech.
 
 Key Components:
 
